@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Hello, {{ session('tenant')->name }}
                 </div>
 
                 <div class="links">
